@@ -9,7 +9,7 @@ Je maitrise les languages de programmation suivant:
   - Html et Css
   - PHP
 
-Présentation des projets:
+## Présentation des projets:
 
 ### [Jeu console en Java](https://github.com/RemyHuffenus/Projet_jeu_console_Java):
 Jeu en tour par tour en Java, le joueurs choisis les différente cartes a placé puis joueras contre l'IA.
